@@ -12,11 +12,16 @@ class Siswa extends CI_Controller {
         //echo "ini adalah method index pada controller Siswa";
         // $data['nama'] = "Taufik Hidayat";
         // $data['kelas'] = "3 IPA 1";
-        $data['siswa'] = [
-            ["nama" => "Budi", "kelas" => "3MM1"],
-            ["nama" => "Cika", "kelas" => "3MM2"],
-            ["nama" => "Dika", "kelas" => "3MM1"],
-        ];
+
+        // tutorial 5
+        // $data['siswa'] = [
+        //     ["nama" => "Budi", "kelas" => "3MM1"],
+        //     ["nama" => "Cika", "kelas" => "3MM2"],
+        //     ["nama" => "Dika", "kelas" => "3MM1"],
+        // ];
+
+        // tutorial 6
+        $data['siswa'] = $this->siswa_model->get_data();
         $this->load->view('tampil_siswa', $data);
 	}
  
