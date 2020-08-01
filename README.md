@@ -10,3 +10,4 @@ Tutorial Codeigniter by warungbelajar.com
 4. Membuat MVC pertama - https://www.warungbelajar.com/cara-membuat-model-view-dan-controller-di-codeigniter.html
 5. Passing data dari controller ke view - https://www.warungbelajar.com/cara-passing-data-dari-controller-ke-view-di-codeigniter.html
 6. Passing data dari model ke controller - https://www.warungbelajar.com/tutorial-codeigniter-part-6-cara-passing-data-dari-model-ke-controller-dan-ditampilkan-di-view.html
+7. Mengenal Helper - https://www.warungbelajar.com/tutorial-codeigniter-part-7-mengenal-fungsi-helper-di-codeigniter.html
