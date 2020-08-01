@@ -12,3 +12,5 @@ Tutorial Codeigniter by warungbelajar.com
 6. Passing data dari model ke controller - https://www.warungbelajar.com/tutorial-codeigniter-part-6-cara-passing-data-dari-model-ke-controller-dan-ditampilkan-di-view.html
 7. Mengenal Helper - https://www.warungbelajar.com/tutorial-codeigniter-part-7-mengenal-fungsi-helper-di-codeigniter.html
 8. Membuat Helper - https://www.warungbelajar.com/tutorial-codeigniter-part-8-membuat-helper-di-codeigniter.html
+9. Mengenal Library - https://www.warungbelajar.com/tutorial-codeigniter-part-9-mengenal-fungsi-library-di-codeigniter.html
+10. Membuat Library - https://www.warungbelajar.com/membuat-library-di-codeigniter.html
