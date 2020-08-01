@@ -7,3 +7,4 @@ Tutorial Codeigniter by warungbelajar.com
 1. Pengenalan dan instalasi - https://www.warungbelajar.com/tutorial-codeigniter-part-1-mengenal-dan-menginstall-framework-codeigniter.html
 2. Mengenal MVC (Model View Controller) - https://www.warungbelajar.com/mengenal-konsep-mvc-di-codeigniter.html
 3. Mengenal Routing - https://www.warungbelajar.com/mengenal-konsep-routing-di-codeigniter.html
+4. Membuat MVC - https://www.warungbelajar.com/cara-membuat-model-view-dan-controller-di-codeigniter.html

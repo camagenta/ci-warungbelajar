@@ -1,0 +1,1 @@
+ini adalah views dalam folder - siswa/badan_siswa</br>
