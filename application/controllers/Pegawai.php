@@ -4,8 +4,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 class Pegawai extends CI_Controller {
 	
 	function __construct(){
-		parent::__construct();		
-		$this->load->model('M_pegawai');
+		$data['berkas'] = $this->db->get('tb_berkas');
+		$this->load->view('tampil_berkas',$data);
 	}
 
 	function index(){
