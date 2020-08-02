@@ -15,3 +15,4 @@ Tutorial Codeigniter by warungbelajar.com
 9. Mengenal Library - https://www.warungbelajar.com/tutorial-codeigniter-part-9-mengenal-fungsi-library-di-codeigniter.html
 10. Membuat Library - https://www.warungbelajar.com/membuat-library-di-codeigniter.html
 [11.] (https://www.warungbelajar.com/cara-membuat-template-di-codeigniter.html) Membuat Template
+[12.] (https://www.warungbelajar.com/tutorial-codeigniter-part-12-cara-menghubungkan-codeigniter-dengan-database-mysql.html) Menghubungkan ke database
