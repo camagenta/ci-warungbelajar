@@ -6,6 +6,7 @@
         <h3><center>Tampil Berkas</center></h3>
         <hr/>
         <a href="<?php echo base_url(); ?>index.php/upload/create">Tambah Berkas</a>
+        <a href="<?php echo base_url(); ?>index.php/upload/multi">Tambah Multi Berkas</a>
         <hr/>
         <table border="1" width="75%" style="text-align:center;">
             <tr>

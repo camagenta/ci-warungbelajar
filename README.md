@@ -17,3 +17,5 @@ Tutorial Codeigniter by warungbelajar.com
 [11.] (https://www.warungbelajar.com/cara-membuat-template-di-codeigniter.html) Membuat Template
 [12.] (https://www.warungbelajar.com/tutorial-codeigniter-part-12-cara-menghubungkan-codeigniter-dengan-database-mysql.html) Menghubungkan ke database
 [13.] (https://www.warungbelajar.com/penanganan-form-form-validasi-di-codeigniter.html) Form Validasi
+[14.] (https://www.warungbelajar.com/membuat-fitur-upload-dan-download-di-codeigniter.html) Upload dan Download
+[15.] (https://www.warungbelajar.com/membuat-fitur-multiple-upload-di-codeigniter.html) Multiple Upload
