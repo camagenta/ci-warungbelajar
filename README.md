@@ -14,3 +14,4 @@ Tutorial Codeigniter by warungbelajar.com
 8. Membuat Helper - https://www.warungbelajar.com/tutorial-codeigniter-part-8-membuat-helper-di-codeigniter.html
 9. Mengenal Library - https://www.warungbelajar.com/tutorial-codeigniter-part-9-mengenal-fungsi-library-di-codeigniter.html
 10. Membuat Library - https://www.warungbelajar.com/membuat-library-di-codeigniter.html
+[11.] (https://www.warungbelajar.com/cara-membuat-template-di-codeigniter.html) Membuat Template
